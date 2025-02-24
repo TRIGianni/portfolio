@@ -1,6 +1,6 @@
-# Hello, my name is Gianni Tricarico
+# Hello, je m'appelle Gianni Tricarico
 
-I'm a back-end developer
+je suis développeur back-end
 
 ---
 
