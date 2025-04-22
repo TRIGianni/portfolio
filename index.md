@@ -12,6 +12,14 @@ Je suis développeur back-end.
 
 ---
 
+**Compétences principales :**
+- **Langages** : Python, JavaScript, C, Java
+- **Frameworks & Outils** : React.js, Node.js, Docker, Spring Boot
+- **Bases de données** : PostgreSQL, MongoDB
+- **Autres** : Git, Linux, CI/CD
+
+---
+
 ## Projets
 ### Projet 1 - Portfolio personnel
 Un site web dynamique présentant mon parcours et mes projets.
